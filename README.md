@@ -18,7 +18,7 @@ When it comes to AI copywriting, LLMs can certainly help, but their responses ar
     - Tavily Search API
     - Meta Ads Library API
     - TikTok Creative Center API
-4. **Creative Director Agent:** Synthesizes all research findings into a cohesive creative strategy document. It generates the primary message and secondary message, proof points, emotional angel, copywriting frameworks, defines brand voice.
+4. **Creative Director Agent:** Synthesizes all research findings into a cohesive creative strategy document. It generates the primary message and secondary message, proof points, emotional angel, unique selling points, problems solved by the product, copywriting frameworks, and brand voice.
 
 -------- Parallel --------
 5. **Hook Generation Agent**: 5 Hook variations

@@ -79,6 +79,10 @@ class SystemSettings(BaseSettings):
         ...,
         description="OpenAI API key"
     )
+    langsmith_api_key: SecretStr = Field(
+        ...,
+        description="Langsmith API key"
+    )
     tavily_api_key: SecretStr = Field(
         ...,
         description="Tavily API key"
